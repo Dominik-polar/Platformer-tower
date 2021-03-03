@@ -1,4 +1,20 @@
 # Platformer-tower
-My first try to make a game in Unity.
-Enjoy and I hope there are no bugs now :) 
-Music by Evan King
+
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup)
+* [Screenshots](#screenshots)
+* [Sources](#sources)
+
+## General info
+This is my first Unity project, simple 2D platformer.
+Music made by Evan Kings.
+	
+## Technologies
+Project is created with:
+* C#
+* Unity 
+	
+## Setup
+To run this project, download unity build and run it with unity.
