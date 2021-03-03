@@ -4,8 +4,6 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [Screenshots](#screenshots)
-* [Sources](#sources)
 
 ## General info
 This is my first Unity project, simple 2D platformer.
